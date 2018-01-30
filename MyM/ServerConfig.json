@@ -1,0 +1,10 @@
+{
+	"host": "localhost",
+	"port": 8002,
+	"connection string": {
+		"DB server": "localhost:3306",
+		"DB user": "root",
+		"DB user password": "12345",
+		"DB name": "messanger"
+	}
+}
